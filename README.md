@@ -10,7 +10,7 @@ Este caso de estudio se divide en dos partes:
 - **Primera parte:** se busca contestar la pregunta ¿cuáles son las cinco ubicaciones de delitos más comunes por mes?
 - **Segunda parte:** se busca contestar la pregunta ¿cuántos delitos ocurrieron por distrito?
 
-[Ver notebook]()
+[Ver notebook](https://github.com/abloominghill/Case-study_Counting-crimes/blob/ab5f970086b1c29782400e3825fe8fee47bde388/archivos/Case%20study%20-%20Counting%20crimes.ipynb)
 
 ---
 
